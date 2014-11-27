@@ -1,4 +1,4 @@
 Calculator
 ==========
 
-User inputs an equation which contains only one digit in infix notation and then the program outputs it in postfix notation, then solves it 
+User inputs an equation(can only used one digit numbers, 0-9) in infix notation and then the program outputs it in postfix notation, then solves it. I implemented all of the data structures used such as the stack and binary search tree.  
